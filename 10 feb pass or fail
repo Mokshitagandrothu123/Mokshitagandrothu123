@@ -6,5 +6,9 @@ s2=int(input('enter english marks:'))
 s3=int(input('enter maths marks:'))
 s4=int(input('enter statistics matks:'))
 s5=int(input('enter computer marks:'))
-s6=int(input('enter sanskrit marks:'))
-if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6>=35
+s6=int(input('enter sanskrit marks:'))8
+if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6>=35:
+    print('pass')
+else: 
+    print('fail')
+  
